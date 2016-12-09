@@ -1,0 +1,28 @@
+img{
+	height: 150px;
+	width: 125px;
+	float: left;
+	
+
+}
+
+.gemSet{
+	background-color: white;
+	margin-right: 675px;
+}
+
+#magicNumberBlock{
+	background-color: pink;
+	outline: black;
+	margin-right: 675px;
+	text-align: center;
+}
+
+#winLossBlock{
+	background-color: cyan;
+	outline: black;
+	margin-right: 675px;
+	text-align: center;
+	margin-left: 300px;
+	margin-bottom: 300px;
+}
